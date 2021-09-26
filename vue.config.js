@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: 'Mortgage_calculator',
+  publicPath: '/Mortgage_calculator/',
   transpileDependencies: [
     'vuetify'
   ]
